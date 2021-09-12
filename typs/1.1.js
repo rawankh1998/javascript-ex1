@@ -1,5 +1,5 @@
 let str="Hello worls!"
-let num="10";
+let num= 4.0;
 let str2="$";
 let gameover= false;
 let y="null";
@@ -13,5 +13,6 @@ console.log(y);
 console.log(x);
 console.log(gameover);
 console.log(sym3)
+
 
 
